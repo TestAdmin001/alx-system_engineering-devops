@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 id -u -n
+=======
+su betty
+>>>>>>> 158daa63267b44f01a2e5f3b5ab965dbc0d151ca
